@@ -79,7 +79,7 @@ sdg11-transport-accessibility/
 ```
 
 ## Results
-- **Transport Accessibility Score:** X% (calculated dynamically)
+- **Transport Accessibility Score:** 86,4% (calculated dynamically)
 - **Population Served:** 1,722,000 out of 2,000,000
 - **Mobility Gaps Identified:** 278,000 inhabitants
 
@@ -94,11 +94,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 - **Organization:** Haut-Commissariat au Plan (HCP)
-- **Project Lead:** [Your Name]
-- **Email:** [your.email@example.com]
+- **Project Lead:** Houda Bennani
+- **Email:** [houda.bennani.pro@gmail.com]
 
 ---
 
 *This analysis contributes to Morocco's commitment to SDG 11: Make cities inclusive, safe, resilient, and sustainable.*
+
 
 
