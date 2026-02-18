@@ -1,0 +1,20 @@
+{
+  "layers": {
+    "intersection_result": "résultat",
+    "total_population": "résultat"
+  },
+  "fields": {
+    "population": "population",
+    "surface_total": "surface_to",
+    "surface_intersection": "surface_in",
+    "population_corrected": "pop_corr"
+  },
+  "projections": {
+    "default": "EPSG:4326",
+    "lambert": "EPSG:27572"
+  },
+  "buffers": {
+    "accessibility_radius_meters": 500
+  },
+  "h3_resolution": 8
+}
